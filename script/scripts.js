@@ -12,7 +12,7 @@ $(document).ready(function () {
 
 // função com Javascript e jQuery que insere letrinhas vermelhas sob as caixas desmarcadas:
 function letrinhas() {
-    $("body").hover(function () {
+    $("body").click(function () {
         if ($("#inputNome").is(':invalid')) {
             $("#nameHelp").text("Preencha o campo Nome.");
         } else {
