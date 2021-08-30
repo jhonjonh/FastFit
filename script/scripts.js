@@ -1,8 +1,9 @@
-// VOLTAR AO TOPO
+
+// Função Top
 $(document).ready(function () {
     $("#topBtn").hide()
     window.addEventListener("scroll", function () {
-        if ($(window).scrollTop() > 20) {
+        if ($(window).scrollTop() > 400) {
             $("#topBtn").fadeIn("fast");
         } else {
             $("#topBtn").fadeOut("fast");
