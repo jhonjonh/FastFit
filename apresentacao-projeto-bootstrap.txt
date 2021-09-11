@@ -1,0 +1,40 @@
+-- Primeiramente bom dia, me chamo John
+
+A categoria sorteada para mim é do ramo fitness, e 
+quando a gente pensa em fitness
+a primeira ideia que me veio foi a de uma academia
+
+Design Clean.
+Responsividade.
+
+Mas resolvi fazer algo diferente
+Minha proposta se chama Fast Fit
+que une o benefício de um personal
+à agilidade de um fast food.
+
+-Quem Somos:
+Pessoas fictícias para o cliente personalizar
+(mostrar botão Top)
+
+-Cidades Atendidas 
+Usa um sistema de abas, separado por estados. Mostrando
+as cidades onde o FastFit tem cobertura.
+
+-Cadastro de parceiros.
+Mostrar validação formulário.
+Primeiro campo inválido em foco.
+Os demais com pequeno texto abaixo.
+
+-Calculadora IMC
+Validação simples.
+
+Vale ressaltar que
+O projeto já foi postado no GitHub
+e está em melhoria constante.
+Fico aberto a comentários/feedback.
+
+
+
+
+
+
